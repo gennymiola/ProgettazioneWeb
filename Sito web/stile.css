@@ -1,0 +1,1653 @@
+html {
+     scroll-behavior: smooth;
+}
+ body {
+     display: block;
+     margin: 0;
+     padding: 0;
+}
+
+}
+ li a:hover {
+     text-shadow: 1px 1px 2px yellow, 0 0 25px yellow, 0 0 5px yellow;
+}
+ .wallpaper {
+     background-image: url("img/sfondo.jpg");
+     background-attachment: fixed;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+ .logo {
+     margin-bottom: 0%;
+     width: 50%;
+     margin-top: 8%;
+     margin-left: 20%;
+     padding-left: 5%;
+}
+ .titolo1 {
+     margin-top: 25%;
+     display: inline-block;
+     font-family: 'Nunito', sans-serif;
+     background-attachment: scroll;
+     font-size: 100%;
+     text-align: justify;
+     color: black;
+     line-height: 150%;
+     width: 96%;
+     margin-bottom: 10%;
+     padding: 2%;
+     background-color: rgba(20, 20, 20, 0.700);
+     border: transparent;
+}
+ .t1 {
+     cursor: pointer;
+     color: white;
+     text-align: center;
+     font-family: 'Prompt', sans-serif;
+     font-size: 200%;
+     padding-top: 0%;
+     letter-spacing: 5px;
+     margin-top: 5%;
+}
+ .t1:hover {
+     text-shadow: 1px 1px 2px yellow, 0 0 25px yellow, 0 0 5px yellow;
+}
+ .wallpaper2 {
+     background-color: black;
+}
+ #s {
+     color: white;
+     font-family: 'Nunito', sans-serif;
+     padding: 2%;
+     line-height: 150%;
+     font-size: 110%;
+}
+ .ospiti {
+     width: 12%;
+     margin-left: 5%;
+     margin-top: 4%;
+}
+ #testo {
+     width: 50%;
+     color: white;
+     background-color: black;
+     margin-top: -100%;
+     margin-left: 40%;
+     text-align: center;
+     font-size: 200%;
+}
+ #andy {
+     visibility: hidden;
+}
+ .wallpaper6 {
+     background-image: url("mattone.jpg");
+}
+ #cartello {
+     width: 35%;
+     position: static;
+     margin-top: 20%;
+     margin-left: 5%;
+}
+ .title {
+     font-family: 'Monoton', cursive;
+     background-color: #2a2a2a;
+     letter-spacing: 15px;
+     font-size: 100%;
+     text-align: center;
+     margin-top: 0%;
+     border-style: solid;
+     color: white;
+     text-shadow: 1px 1px 2px black, 0 0 25px yellow, 0 0 5px yellow;
+     box-shadow: 0.5px 0.5px 1px black, 0 0 20px yellow, 0 0 3px yellow;
+     width: 90%;
+     margin-left: 4%;
+     position: static;
+     margin-top: 25%;
+     display: inline-block;
+}
+ #t {
+     padding-left: 3%;
+     padding-right: 3%;
+     padding-top: 2%;
+     padding-bottom: 2%;
+     margin-top: -95%;
+}
+ #palazzo {
+     margin-top: -55%;
+     margin-left: 30%;
+     position: static;
+     width: 35%;
+     display: inline-flex;
+}
+ #scopri {
+     font-family: 'Nunito', sans-serif;
+     font-size: 80%;
+     color: white;
+     margin-top: -20%;
+     margin-left: 70%;
+     position: static;
+     display: inline-block;
+}
+ .testo1 {
+     color: white;
+     text-align: justify-all;
+     margin-left: 5%;
+     margin-right: 3%;
+     margin-top: 8%;
+     font-family: 'Nunito', sans-serif;
+     font-size: 100%;
+     border-style: none;
+}
+ #grattacielo {
+     width: 10%;
+     margin-top: 5%;
+}
+ #freccia {
+     margin-top: 0%;
+     margin-left: 69%;
+     width: 8%;
+}
+ #indicazioni {
+     margin-top: 50%;
+}
+ #avanti {
+     margin-top: -10%;
+     margin-left: 5%;
+     position: absolute;
+     width: 10%;
+}
+ #indietro {
+     width: 10%;
+     margin-top: 67%;
+     margin-left: 30%;
+     position: absolute;
+}
+ #fotof {
+     width: 90%;
+     margin-top: 13%;
+     padding-bottom: 10%;
+     padding-right: 10%;
+     margin-left: 5%;
+     margin-right: 2%;
+     position: static;
+     background-position: 50% 50%;
+}
+ #gallery {
+     width: 92%;
+     background-color: rgba(130, 130, 130, 0.500);
+     box-sizing: border-box;
+     border-radius:10px;
+     border: 2px solid grey;
+     margin-top: 25%;
+     margin-left: 2%;
+     text-align: center;
+     background-position:50% 50%;
+     display: inline-block;
+     box-shadow: 0.5px 0.5px 1px black, 0 0 20px white, 0 0 3px white;
+}
+ .quadrati {
+     width: 30%;
+     margin-top: 20%;
+     margin-left: 11%;
+     padding-left: 5%;
+     margin-bottom: -10%;
+     cursor: pointer;
+}
+ a {
+     text-decoration: none;
+}
+ #contquadri {
+     margin-left: -12%;
+}
+ .quadrati:hover {
+     width: 27%;
+     height: 15%;
+     margin-left: 14%;
+     transition:0.7s ease-in-out;
+     text-decoration: none;
+}
+ .wallpaper3 {
+     background-image: url("img/mucca2.JPG");
+     background-attachment: fixed;
+     background-repeat: repeat;
+}
+ .intro {
+     background-position: center;
+     background-attachment: scroll;
+     width: 100%;
+     font-family: 'Nunito', sans-serif;
+     text-align: center;
+     padding-bottom: 15%;
+     font-size: 100%;
+     text-align: justify;
+     margin-left: 0%;
+     color: black;
+     line-height: 130%;
+}
+ .descrizione2 {
+     margin-top: 5%;
+     display: inline-block;
+     font-family: 'Nunito', sans-serif;
+     background-attachment: scroll;
+     font-size: 100%;
+     padding-left: 5%;
+     padding-right: 5%;
+     text-align: justify;
+     color: black;
+     line-height: 150%;
+     width: 80%;
+     background-color: rgba(255, 255, 255, 0.700);
+     border: transparent;
+     margin-left: 5%;
+}
+ #tc {
+     margin-left: 20%;
+}
+ .img {
+     width: 45%;
+     margin-top: -8%;
+     padding-bottom: 10%;
+     padding-top: 3%;
+     margin-left: 3%;
+}
+ .musica {
+     padding: 0%;
+     margin: 0%;
+     width: 100%;
+     margin-top: 15%;
+     position: static;
+     display: inline-block;
+     margin-bottom: 0%;
+}
+ .contenitore {
+     margin-top: -5%;
+     margin-left: 0%;
+     display: inline-block;
+     width: 100%;
+     background-attachment: scroll;
+     margin-bottom: 15%;
+     padding-bottom: 10%;
+     padding-top: 5%;
+     padding-right: 7%;
+}
+ .descrizione3 {
+     color: black;
+     display: inline-block;
+     margin-top: 5%;
+     font-family: 'Nunito', sans-serif;
+     font-size: 100%;
+     margin-left: 7%;
+     line-height: 150%;
+     text-align: justify-all;
+     background-color: rgba(255, 255, 255, 0.800);
+     padding-left: 5%;
+     padding-right: 3%;
+     padding-top: 5%;
+     margin-bottom: 20%;
+     padding-bottom: 50%;
+     width: 80%;
+}
+ #tm {
+     margin-left: 20%;
+}
+ #ts {
+     margin-left: 17%;
+     font-family: 'Nunito', sans-serif;
+}
+ div#copertina{
+     display: flex;
+     position: static;
+     cursor: pointer;
+     margin-left: 30%;
+     margin-top: 0%;
+     margin-bottom: 4%;
+     width: 30%;
+}
+ div.banana:hover .ban {
+     display: none;
+}
+ div.banana:hover .ban2 {
+     display: block;
+}
+ img.ban{
+     width:100%;
+     display: block;
+}
+ img.ban2 {
+     display: none;
+     width: 100%;
+}
+ #tit {
+     color: yellow;
+     text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px black;
+     font-size: 110%;
+}
+ #descrizione4 {
+     color: black;
+     font-family: 'Nunito', sans-serif;
+     font-size: 100%;
+     line-height: 150%;
+     text-align: justify-all;
+     padding-left: 2%;
+     padding-right: 5%;
+}
+ #gif2 {
+     margin-left: 0%;
+     width: 100%;
+     margin-bottom: 5%;
+}
+ .articolo {
+     width: 80%;
+     padding-right: 5%;
+     padding-left: 5%;
+     padding-bottom: 2%;
+     padding-top: 2%;
+     margin-bottom: 10%;
+     background-color: rgba(255, 255, 255, 0.700);
+     background-position: center;
+     border: transparent;
+     display: inline-block;
+     margin-top: 20%;
+     margin-left: 5%;
+}
+ #titolo {
+     font-size: 150%;
+     color: black;
+     text-align: justify-all;
+     position: static;
+     margin-top: -10%;
+     margin-left: 15%;
+     font-family: 'Monoton', cursive;
+     display: inline-block;
+     letter-spacing: 0;
+}
+ #txt {
+     margin-top: -0%;
+}
+ .tit1 {
+     position: static;
+     display: inline-block;
+     margin-top: -22%;
+     padding-bottom: 5%;
+     text-align: center;
+     margin-left: 0%;
+     font-family: 'Nunito', sans-serif;
+     font-size: 90%;
+}
+ #descrizione1 {
+     font-family: 'Nunito', sans-serif;
+     margin-top: 5%;
+     display: inline-block;
+     font-size: 100%;
+     text-align: justify-all;
+}
+ #film1 {
+     margin-left: 30%;
+     font-family: 'Nunito', sans-serif;
+     font-size: 90%;
+}
+ .cinema {
+     width: 100%;
+     margin-top: 15%;
+     position: static;
+     display: inline-block;
+     margin-bottom: 15%;
+     padding-bottom: 0%;
+}
+ .descrizione6 {
+     color: black;
+     display: inline-block;
+     margin-top: 20%;
+     font-family: 'Nunito', sans-serif;
+     font-size: 100%;
+     margin-left: 5%;
+     line-height: 150%;
+     text-align: justify-all;
+     background-color: rgba(255, 255, 255, 0.700);
+     padding-left: 5%;
+     padding-right: 5%;
+     padding-top: 0%;
+     margin-bottom: 10%;
+     padding-bottom: 10%;
+     width: 80%;
+}
+ #polaroidgalleria {
+     margin-left: 0%;
+     margin-top: -15%;
+     padding: 0%;
+     width: 160%;
+}
+ #galleria2 {
+     padding-left: 5%;
+     margin-top: 5%;
+     margin-bottom: 5%;
+     width: 30%;
+     height: 30%;
+     margin-left: 20%;
+     display: inline-block;
+     margin-top: 0%;
+}
+ #fissa {
+     width: 10%;
+     margin-top: -3%;
+     margin-left: 15%;
+     position: absolute;
+}
+ #tf {
+     margin-top: -10%;
+     margin-left: 20%;
+}
+ #citfoto {
+     font-family: 'Permanent Marker', cursive;
+     color: black;
+     border-left: 5px solid;
+     padding-left: 3%;
+     font-size: 120%;
+     margin-left: 0%;
+}
+ #autore {
+     font-family: 'Nunito', sans-serif;
+}
+ .wallpaper4 {
+     background-image: url(img/legno.jpg);
+}
+ .arrows {
+     width: 15%;
+     position: absolute;
+     margin-top: 5%;
+}
+ #back {
+     margin-left: 47%;
+     margin-top: -35%;
+}
+ #go {
+     margin-left: -15%;
+     margin-top: 22%;
+}
+ #artista {
+     font-family: 'Permanent Marker', cursive;
+     margin-left: 32%;
+     font-size: 120%;
+     margin-bottom: 20%;
+}
+ #nastro {
+     position: static;
+     display: inline-block;
+     margin-top: -10%;
+     width: 30%;
+     margin-left: -15%;
+}
+ #nastro2 {
+     position: static;
+     display: inline-block;
+     margin-top: -30%;
+     margin-left: 75%;
+     width: 25%;
+}
+ .polaroid {
+     margin-left: 20%;
+     margin-top: 0%;
+     font-family: 'Permanent Marker', cursive;
+     color: black;
+     font-size: 120%;
+}
+ .wallpaper6 {
+     background-image: url("img/coltelli.jpg");
+     background-repeat: no-repeat;
+}
+ .wallpaper7 {
+     background-image: url("img/mattone.jpg");
+}
+ .info {
+     line-height: 140%;
+     background-color: rgba(50, 50, 50, 0.500);
+     color: white;
+     font-family: 'Nunito', sans-serif;
+     position: static;
+     display: inline-block;
+     margin-top: 18%;
+     padding-left: 5%;
+     padding-right: 5%;
+     text-align: justify-all;
+     margin-bottom: 5%;
+}
+ .info a:link,a:active, a:visited {
+     color: white;
+     text-decoration:none 
+}
+ .info a:hover {
+     color: #FF0080;
+     text-decoration: underline;
+}
+ #logocss {
+     border:0;
+     width:88px;
+     height:31px;
+}
+.memory {
+	width: 20%;
+}
+#tg1 {
+	  font-size: 130%;
+}
+#tg2 {
+	 font-size: 90%;
+}
+.titoligioco {
+	 font-family: 'Nunito', sans-serif;
+     color: white;
+     padding-left: 3%;
+     text-shadow: 2px 2px 3px black, 0 0 35px #f22695, 0 0 10px #f22695;
+}
+.gioco {
+    display: block;
+    padding-top: 15%;
+    width: 100%;
+    cursor: pointer;
+    margin-left: 2%;
+}
+.memory {
+    margin-left: 2%;
+    margin-top: 2%;
+}
+.button {
+  background-color: #fc4aa7;
+  border-style: solid;
+  border-color: black;
+  font-family: 'Nunito', sans-serif;
+  color: black;
+  padding: 1% 1%;
+  margin-bottom: 5%;
+  margin-left: 35%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 70%;
+  cursor: pointer;
+}
+.wallpaper5 {
+    background-color: #f6b8d6;
+}
+ @media all and (min-width: 360px){
+     li {
+         padding-left: 4%;
+    }
+     #t {
+         margin-top: -85%;
+         padding-top: 7%;
+    }
+     #palazzo {
+         margin-top: -50%;
+    }
+     .polaroid {
+         margin-left: 25%;
+    }
+}
+ @media all and (min-width: 400px){
+     li {
+         padding-left: 5%;
+    }
+     .titolo1 {
+         margin-top: 20%;
+    }
+     #t {
+         margin-top: -80%;
+    }
+     .title {
+         margin-top: 15%;
+    }
+     #gallery {
+         width: 80%;
+         margin-top: 25%;
+         margin-left: 10%;
+    }
+     #avanti {
+         margin-top: -32%;
+         margin-left: 30%;
+    }
+     #indietro {
+         margin-top: 30%;
+         margin-left: -1%;
+    }
+     #fotof {
+         width: 80%;
+         margin-left: 10%;
+    }
+     .t1 {
+         padding-top: 5%;
+    }
+     .testo1 {
+         padding-left: 3%;
+    }
+     #descrizione1 {
+         margin-top: -5%;
+    }
+     #polaroidgalleria {
+         width: 120%;
+    }
+     .polaroid {
+         margin-left: 23%;
+    }
+     #tc {
+         margin-left: 30%;
+    }
+     #go {
+         margin-top: 10%;
+    }
+     #back {
+         margin-left: 40%;
+    }
+     #titolo {
+         margin-bottom: 5%;
+    }
+    #tg1 {
+    	font-size: 145%;
+    }
+}
+ @media all and (min-width: 460px){
+     .logo {
+         padding-left: 15%;
+    }
+     #t {
+         margin-top: -70%;
+    }
+}
+ @media all and (min-width: 500px){
+     header {
+         font-size: 130%;
+    }
+     .menu1 {
+         width: 120%;
+    }
+     .quadrati {
+         margin-left: 15%;
+         margin-top: 17%;
+         width: 27%;
+    }
+     .quadrati:hover {
+         width: 23%;
+         padding-left: 10%;
+    }
+     #t {
+         margin-top: -65%;
+    }
+     #ts {
+         margin-left: 30%;
+    }
+     #gallery {
+         margin-top: 20%;
+    }
+     .tit1 {
+         font-size: 130%;
+    }
+     .articolo {
+         margin-top: 15%;
+    }
+     .cinema {
+         margin-top: 10%;
+    }
+     .musica {
+         margin-top: 10%;
+    }
+     .img {
+         width: 28%;
+    }
+     .info {
+         margin-top: 12%;
+    }
+     #t1 {
+         margin-top: 15%;
+    }
+     .polaroid {
+         margin-left: 35%;
+    }
+     #galleria2 {
+         margin-left: 30%;
+    }
+     #polaroidgalleria {
+         width: 100%;
+         margin-left: 10%;
+    }
+     #fissa {
+         margin-left: 10%;
+         margin-top: -5%;
+    }
+     #back {
+         margin-top: -23%;
+         margin-left: 35%;
+    }
+     #artista {
+         margin-left: 15%;
+    }
+     #indicazioni {
+         margin-top: 40%;
+    }
+     #descrizione1 {
+         margin-top: -10%;
+    }
+     #titolo {
+         font-size: 160%;
+         margin-bottom: 15%;
+         margin-left: 13%;
+    }
+     .tit1 {
+         font-size: 100%;
+    }
+    .titoligioco {
+    	margin-top: -5%;
+    	margin-bottom: -13%;
+    }
+    #tg1 {
+    	font-size: 130%;
+    	margin-left: -2%;
+    }
+    #tg2 {
+    	font-size: 100%;
+    }
+
+}
+ @media all and (min-width: 550px) {
+     #t {
+         margin-top: -60%;
+    }
+     #descrizione1 {
+         margin-top: -15%;
+    }
+     .logo {
+         padding-left: 25%;
+    }
+}
+ @media all and (min-width: 600px){
+     header {
+         font-size: 140%;
+         padding-top: 2%;
+    }
+     li {
+         padding-left: 6%;
+    }
+     .t1 {
+         font-size: 250%;
+    }
+     .testo1 {
+         margin-top: 5%;
+    }
+     #t {
+         margin-top: -55%;
+    }
+     #avanti {
+         width: 8%;
+         margin-left: 31%;
+         margin-top: -31%;
+    }
+     #indietro {
+         width: 8%;
+         margin-left: 0.5%;
+    }
+     #grattacielo {
+         margin-left: 86%;
+         margin-top: 3%;
+    }
+     #scopri {
+         font-size: 100%;
+    }
+     #gallery {
+         margin-top: 15%;
+    }
+     .tit1 {
+         font-size: 100%;
+         margin-bottom: 20%;
+    }
+     .intro {
+         margin-bottom: -10%;
+    }
+     #descrizione1 {
+         margin-top: -20%;
+    }
+     .contenitore {
+         margin-top: -20%;
+    }
+     #titolo {
+         margin-bottom: 20%;
+    }
+     .polaroid {
+         margin-left: 30%;
+    }
+     #polaroidgalleria {
+         width: 90%;
+         margin-left: -10%;
+    }
+     #fissa {
+         margin-left: 5%;
+         width: 8%;
+    }
+     #tm {
+         margin-left: 30%;
+    }
+     #go {
+         margin-top: 3.5%;
+         margin-left: -20%;
+    }
+     #indicazioni {
+         margin-top: 35%;
+    }
+     #back{
+         margin-top: 3%;
+         margin-left: 2%;
+    }
+     .polaroid {
+         margin-top: -5%;
+         margin-left: 32%;
+    }
+     #artista {
+         margin-left: 2%;
+    }
+     #nastro2 {
+         width: 27%;
+    }
+     .fotografia {
+         margin-top: -5%;
+    }
+     #tf {
+         margin-left: 30%;
+    }
+     .cinema {
+         margin-top: 7%;
+    }
+     .quadrati {
+         width: 25%;
+    }
+     .quadrati:hover {
+         width: 22%;
+         padding-left: 9%;
+    }
+     div#copertina {
+         width: 25%;
+         margin-left: 30%;
+    }
+    .titoligioco {
+    	margin-left: 5%;
+    	margin-bottom: -15%;
+    }
+    #tg1 {
+    	font-size: 140%;
+    }
+}
+ @media all and (min-width: 650px) {
+     #t {
+         margin-top: -50%;
+    }
+}
+ @media all and (min-width: 700px) {
+     li {
+         padding-left: 7.5%;
+    }
+     .t1 {
+         padding: 5%;
+    }
+     #t {
+         margin-top: -45%;
+    }
+     #cartello {
+         margin-top: 15%;
+    }
+     #gallery {
+         width: 70%;
+         margin-left: 15%;
+    }
+     #avanti {
+         width: 6%;
+         margin-top: -25%;
+         margin-left: 27%;
+    }
+     #indietro {
+         width: 6%;
+         margin-top: 29%;
+         margin-left: 1.5%;
+    }
+     .articolo {
+         margin-top: 10%;
+    }
+     .cinema {
+         margin-top: 5%;
+    }
+     .musica {
+         margin-top: 5%;
+    }
+     .fotografia {
+         margin-top: -8%;
+    }
+     #go {
+         margin-left: -15%;
+    }
+     #polaroidgalleria {
+         width: 80%;
+         margin-left: 5%;
+    }
+     #fissa {
+         width: 7%;
+         margin-left: 8%;
+    }
+     #artista {
+         margin-left: 15%;
+    }
+     .polaroid {
+         margin-left: 35%;
+    }
+     .quadrati {
+         width: 23%;
+         margin-top: 15%;
+    }
+     .polaroid {
+         margin-bottom: 5%;
+    }
+     .quadrati:hover {
+         width: 20%;
+         padding-left: 9%;
+    }
+     #nastro {
+         width: 25%;
+    }
+     #nastro2 {
+         width: 20%;
+         margin-left: 80%;
+    }
+     .info {
+         width: 70%;
+         margin-top: 9%;
+         margin-left: 7%;
+    }
+     .tit1 {
+         margin-left: 10%;
+    }
+     #titolo {
+         font-size: 180%;
+    }
+     #descrizione1 {
+         margin-top: -15%;
+    }
+    .titoligioco {
+    	margin-left: 8%;
+    }
+    #tg1 {
+    	font-size: 150%;
+    }
+    #tg2 {
+    	font-size: 110%;
+    }
+    .button {
+  font-size: 100%;
+  cursor: pointer;
+}
+}
+ @media all and (min-width: 800px){
+     li {
+         padding-left: 8%;
+    }
+     #scopri {
+         font-size: 100%;
+         margin-left: 60%;
+    }
+     #freccia {
+         margin-left: 60%;
+    }
+     .logo {
+         padding-left: 25%;
+    }
+     .t1 {
+         padding: 5%;
+    }
+     #indicazioni {
+         margin-top: 30%;
+    }
+     #palazzo {
+         width: 27%;
+    }
+     #cartello {
+         width: 27%;
+    }
+     .title {
+         margin-top: 10%;
+         padding-top: 0%;
+    }
+     #t {
+         margin-top: -40%;
+    }
+     .intro {
+         font-size: 120%;
+    }
+     .img {
+         width: 27%;
+    }
+     #titolo {
+         font-size: 200%;
+    }
+     #descrizione1 {
+         font-size: 120%;
+    }
+     #grattacielo {
+         margin-left: 87%;
+    }
+     #gallery {
+         width: 70%;
+    }
+     .cinema {
+         font-size: 120%;
+         margin-top: 5%;
+    }
+     .musica {
+         margin-top: 5%;
+         font-size: 120%;
+    }
+     .descrizione4 {
+         font-size: 120%;
+    }
+     .descrizione6 {
+         font-size: 120%;
+    }
+     #polaroidgalleria {
+         width: 70%;
+         margin-left: 20%;
+    }
+     #go {
+         margin-left: -8%;
+         width: 13%;
+    }
+     #back {
+         width: 13%;
+         margin-left: 2%;
+    }
+     #fissa {
+         margin-left: 12%;
+         margin-top: -5%;
+         width: 7%;
+    }
+     .banana {
+         width: 60%;
+    }
+     .polaroid {
+         margin-left: 40%;
+    }
+     #artista {
+         margin-left: 30%;
+         font-size: 130%;
+         margin-top: 1%;
+    }
+     .t1 {
+         font-size: 300%;
+    }
+     .tit1 {
+         margin-left: 15%;
+    }
+     .quadrati {
+         margin-left: 17%;
+         width: 20%;
+    }
+     .quadrati:hover {
+         width: 17%;
+         padding-left: 11%;
+    }
+     div#copertina {
+         width: 23%;
+         margin-left: 40%;
+    }
+     .info {
+         margin-left: 3%;
+         padding-left: 3%;
+         padding-right: 3%;
+    }
+    #gif2 {
+        width: 70%;
+        margin-left: 15%;
+    }
+    .gioco {
+    	margin-top: -5%;
+    }
+    .titoligioco {
+    	margin-left: 15%;
+    }
+    #tg2 {
+    	margin-left: 8%;
+    }
+}
+ @media all and (min-width: 900px) {
+     li {
+         padding-left: 9%;
+    }
+     #t {
+         font-size: 270%;
+         margin-top: -37%;
+    }
+     #palazzo {
+         width: 30%;
+    }
+     #cartello {
+         width: 30%;
+         margin-top: 10%;
+    }
+     #grattacielo {
+         margin-left: 87%;
+    }
+     #gallery {
+         margin-top: 13%;
+    }
+     .quadrati {
+         margin-top: 14%;
+    }
+     div#copertina {
+         width: 20%;
+    }
+     #fissa {
+         width: 6%;
+     }
+     .info {
+         width: 50%;
+         font-size: 110%;
+         margin-left: 5%;
+    }
+    .button {
+        margin-left: 40%;
+    }
+}
+ @media all and (min-width: 1000px){
+     header {
+         font-size: 160%;
+    }
+     li {
+         padding-left: 9.5%;
+    }
+     #indicazioni {
+         margin-top: 25%;
+    }
+     #scopri {
+         font-size: 100%;
+         margin-left: 55%;
+    }
+     #freccia {
+         margin-left: 55%;
+         width: 8%;
+    }
+     .img {
+         margin-top: -10%;
+    }
+     .title {
+         font-size: 110%;
+    }
+     #andy {
+         width: 25%;
+         visibility: visible;
+         margin-top: -2%;
+         margin-left: -80%;
+    }
+     #palazzo {
+         width: 23%;
+    }
+     #t {
+         font-size: 300%;
+         margin-left: 15%;
+         margin-top: -25%;
+    }
+     .testo1 {
+         margin-top: 3%;
+         font-size: 110%;
+    }
+     #titolo {
+         font-size: 230%;
+         margin-bottom: 25%;
+    }
+     .t1 {
+         font-size: 350%;
+         margin-top: 0%;
+    }
+     #gallery {
+         width: 60%;
+         margin-left: 20%;
+    }
+     #avanti {
+         width: 5%;
+         margin-left: 23%;
+         margin-top: -22%;
+    }
+     #grattacielo {
+         width: 8%;
+         margin-top: -10%;
+    }
+     #cartello {
+         width: 23%;
+    }
+     #indietro {
+         width: 5%;
+         margin-left: 1.5%;
+         margin-top: 24% 
+    }
+     .img {
+         padding-top: 0%;
+         padding-bottom: 15%;
+    }
+     .tit1 {
+         margin-bottom: 25%;
+         margin-left: 15%;
+         font-size: 120%;
+    }
+     #txt {
+         margin-top: -5%;
+    }
+     #descrizione1 {
+         margin-top: -20%;
+    }
+     div#copertina {
+         margin-left: 35%;
+    }
+     #fissa {
+         width: 5%;
+         margin-left: 10%;
+    }
+     #polaroidgalleria {
+         margin-left: 15%;
+    }
+     #go {
+         width: 12%;
+    }
+     #back {
+         width: 12%;
+         margin-left: 0%;
+    }
+     #nastro {
+         width: 20%;
+         margin-top: -5%;
+         margin-left: -10%;
+    }
+     #nastro2 {
+         width: 15%;
+         margin-top: -30%;
+         margin-left: 85%;
+         margin-bottom: 5%;
+    }
+     #ts {
+         margin-left: 35%;
+    }
+     #tc {
+         margin-left: 40%;
+    }
+     #tm {
+         margin-left: 35%;
+    }
+     .cinema {
+         margin-top: 3%;
+    }
+     .quadrati {
+         margin-left: 10%;
+         padding-bottom: 5%;
+         width: 22%;
+    }
+     .quadrati:hover {
+         width: 19%;
+         padding-left: 4%;
+    }
+     #contquadri {
+         margin-left: 10%;
+    }
+    .titoligioco {
+    	margin-left: 15%;
+    }
+    #tg1 {
+    	font-size: 180%;
+    }
+    #tg2 {
+    	font-size: 130%;
+    }
+}
+ @media all and (min-width: 1200px){
+     header {
+         font-size: 170%;
+    }
+     li {
+         padding-left: 10%;
+    }
+     #s {
+         font-size: 120%;
+    }
+     .logo {
+         width: 60%;
+         margin-bottom: -50%;
+         margin-left: 50%;
+    }
+     .titolo1 {
+         margin-top: 20%;
+    }
+     #t {
+         padding-top: 2%;
+         margin-left: 2%;
+    }
+     #indicazioni {
+         margin-left: 20%;
+    }
+     #palazzo {
+         margin-left: 38%;
+    }
+     #scopri {
+         font-size: 120%;
+    }
+     .title {
+         margin-top: 10%;
+         width: 90%;
+         padding-bottom: 0%;
+    }
+     #andy {
+         margin-top: -3%;
+    }
+     #freccia {
+         width: 5%;
+    }
+     #t {
+         margin-top: -20%;
+    }
+     .testo1 {
+         margin-top: 5%;
+         margin-right: 5%;
+    }
+     #gallery {
+         width: 55%;
+         margin-left: 20%;
+         margin-top: 10%;
+    }
+     #fotof {
+         width: 70%;
+    }
+     #avanti {
+         margin-top: 18%;
+         margin-left: -5%;
+         width: 3%;
+    }
+     #indietro {
+         width: 3%;
+         margin-top: 17.5%;
+         margin-left: 1%;
+    }
+     #grattacielo {
+         width: 6%;
+         margin-left: 77%;
+    }
+     .descrizione6 {
+         font-size: 130%;
+    }
+     .articolo {
+         margin-top: 7%;
+         font-size: 120%;
+    }
+     .intro {
+         margin-bottom: -10%;
+    }
+     .tit1 {
+    }
+     #titolo {
+         padding-left: 25%;
+    }
+     .musica {
+         margin-top: 5%;
+         width: 80%;
+         margin-left: 10%;
+         font-size: 120%;
+         padding-bottom: 0%;
+    }
+     .descrizione3 {
+         font-size: 120%;
+    }
+     #polaroidgalleria {
+         width: 60%;
+    }
+     #go {
+         width: 9%;
+         margin-left: -5%;
+    }
+     #back {
+         width: 9%;
+    }
+     #artista {
+         margin-left: 25%;
+    }
+     #titolo {
+         margin-left: -5%;
+    }
+     .info {
+         margin-left: 3%;
+         margin-top: 10%;
+         padding-left: 2%;
+         padding-right: 2%;
+         width: 45%;
+    }
+     .img {
+         width: 25%;
+         margin-left: 5%;
+    }
+    #gif2 {
+        width: 60%;
+        margin-left: 18%;
+    }
+    #s {
+        font-size: 120%;
+    }
+    .titoligioco {
+    	margin-left: 20%;
+    }
+    #tg1 {
+    	font-size: 200%;
+    }
+    .button {
+        font-size: 120%;
+    }
+}
+ @media all and (min-width: 1400px) {
+     li {
+         padding-left: 10.5%;
+    }
+     #t {
+         margin-top: -20%;
+         margin-left: 10%;
+    }
+     .tit1 {
+         font-size: 125%;
+    }
+     .logo {
+         width: 80%;
+         margin-bottom: -50%;
+         margin-left: 45%;
+    }
+     #scopri {
+         margin-left: 50%;
+    }
+     #freccia {
+         margin-left: 50%;
+    }
+     #andy {
+         width: 25%;
+         margin-left: -80%;
+    }
+     .title {
+         width: 80%;
+         margin-left: 10%;
+    }
+     .testo1 {
+         margin-left: 12%;
+         margin-top: 5%;
+         margin-right: 10%;
+         font-size: 130%;
+    }
+     #palazzo {
+         width: 20%;
+    }
+     #indicazioni {
+         margin-top: 25%;
+    }
+     #cartello {
+         width: 20%;
+    }
+     .quadrati {
+         width: 20%;
+         margin-top: 10%;
+    }
+     .quadrati:hover {
+         width: 17%;
+         padding-left: 4%;
+    }
+     .musica {
+         width: 60%;
+         margin-left: 20%;
+    }
+     div#copertina {
+         width: 25%;
+    }
+     #polaroidgalleria {
+         width: 50%;
+    }
+     #fissa {
+         width: 4%;
+         margin-left: 8%;
+    }
+     #go {
+         width: 7%;
+         margin-left: -3%;
+    }
+     #back {
+         width: 7%;
+    }
+     #nastro {
+         width: 15%;
+    }
+     #nastro2 {
+         width: 12%;
+         margin-top: -20%;
+    }
+     #tf {
+         margin-top: -5%;
+    }
+     .img {
+         width: 23%;
+         margin-left: 8%;
+    }
+     .info {
+         width: 30%;
+         margin-left: 5%;
+    }
+     #descrizione1 {
+         margin-top: -25%;
+    }
+     #titolo {
+         font-size: 250%;
+    }
+    #gif2 {
+        width: 55%;
+    }
+    #s {
+        font-size: 130%;
+    }
+    .descrizione2 {
+    	font-size: 120%;
+    }
+    #scritta {
+        font-size: 115%;
+    }
+    #tf {
+        margin-left: 37%;
+    }
+}
+ @media all and (min-width: 1500px) {
+     header {
+         font-size: 180%;
+    }
+     .logo {
+         margin-left: 50%;
+    }
+     #s {
+         font-size: 130%;
+    }
+     #indicazioni {
+         margin-top: 20%;
+    }
+     #t {
+         margin-top: -20%;
+         font-size: 350%;
+         margin-left: 10%;
+    }
+     .title {
+         width: 70%;
+         margin-left: 15%;
+    }
+     #andy {
+         width: 27%;
+         margin-left: -80%;
+    }
+     .t1 {
+         margin-left: -5%;
+         padding: 5%;
+    }
+     .titolo1 {
+         margin-top: 15%;
+    }
+     .testo1 {
+         margin-left: 16%;
+         margin-right: 15%;
+         margin-top: 4%;
+    }
+     #gallery {
+         width: 50%;
+    }
+     .musica {
+         margin-left: 17%;
+    }
+     #titolo {
+         margin-left: 0%;
+    }
+     .intro {
+         margin-bottom: -13%;
+    }
+}
+ @media all and (min-width: 1600px) {
+     li {
+         padding-left: 9%;
+    }
+     #indicazioni {
+         margin-top: 18%;
+    }
+     .logo {
+         margin-left: 120%;
+    }
+     .t1 {
+         margin-left: -13%;
+    }
+     #gallery {
+         width: 45%;
+    }
+     #avanti {
+         margin-top: 15%;
+    }
+     #indietro {
+         margin-top: 15%;
+    }
+     #grattacielo {
+         margin-left: 70%;
+    }
+     .quadrati {
+         width: 15%;
+         padding-left: 9%;
+    }
+     #contquadri {
+         margin-left: 0%;
+    }
+     .quadrati:hover {
+         width: 12%;
+         padding-left: 8%;
+    }
+     .musica {
+         margin-left: 15%;
+    }
+     .info {
+         margin-left: 3%;
+    }
+}
+ @media all and (min-width: 1800px) {
+     .info {
+         margin-left: 5%;
+         width: 20%;
+    }
+}
+ 
